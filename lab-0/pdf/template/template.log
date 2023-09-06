@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.9.6)  6 SEP 2023 19:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.9.6)  6 SEP 2023 22:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -278,47 +278,66 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-4.def
-File: uni-4.def 2013/05/13 UCS: Unicode data U+0400..U+04FF
-)
-LaTeX Font Info:    Trying to load font information for U+msa on input line 21.
+<arithmetic cpp.png, id=1, 218.61674pt x 149.96025pt>
+File: arithmetic cpp.png Graphic file (type png)
+<use arithmetic cpp.png>
+Package pdftex.def Info: arithmetic cpp.png  used on input line 24.
+(pdftex.def)             Requested size: 312.00119pt x 214.03879pt.
+<arithmetic add.png, id=3, 525.162pt x 534.19576pt>
+File: arithmetic add.png Graphic file (type png)
+<use arithmetic add.png>
+Package pdftex.def Info: arithmetic add.png  used on input line 30.
+(pdftex.def)             Requested size: 312.00119pt x 317.36543pt.
 
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<arithmetic sub.png, id=4, 522.15076pt x 533.5935pt>
+File: arithmetic sub.png Graphic file (type png)
+<use arithmetic sub.png>
+Package pdftex.def Info: arithmetic sub.png  used on input line 36.
+(pdftex.def)             Requested size: 312.00119pt x 318.8477pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<arithmetic command line.png, id=5, 801.59476pt x 526.96875pt>
+File: arithmetic command line.png Graphic file (type png)
+<use arithmetic command line.png>
+Package pdftex.def Info: arithmetic command line.png  used on input line 42.
+(pdftex.def)             Requested size: 312.00119pt x 205.11493pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 47.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 21.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 47.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-<tears-in-rain.jpg, id=1, 1405.25pt x 1053.9375pt>
-File: tears-in-rain.jpg Graphic file (type jpg)
-<use tears-in-rain.jpg>
-Package pdftex.def Info: tears-in-rain.jpg  used on input line 27.
-(pdftex.def)             Requested size: 312.00119pt x 233.98976pt.
- [1
+) [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./tears-in-rain.jpg>] (./t
-emplate.aux) ) 
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./arithmetic cpp.png>] [2 
+<./arithmetic add.png>] [3 <./arithmetic sub.png> <./arithmetic command line.pn
+g>]
+(./template.aux) ) 
 Here is how much of TeX's memory you used:
- 5826 strings out of 479721
- 87361 string characters out of 5887698
- 384465 words of memory out of 5000000
- 23713 multiletter control sequences out of 15000+600000
- 480544 words of font info for 62 fonts, out of 8000000 for 9000
+ 5077 strings out of 479721
+ 79628 string characters out of 5887698
+ 384456 words of memory out of 5000000
+ 22968 multiletter control sequences out of 15000+600000
+ 474706 words of font info for 47 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
- 55i,8n,62p,355b,692s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/dataflex/.texlive2021/texmf-var/fonts/pk/ljfour/lh/lh-t2a
-/larm1200.600pk> </home/dataflex/.texlive2021/texmf-var/fonts/pk/ljfour/lh/lh-t
-2a/labx1728.600pk> </home/dataflex/.texlive2021/texmf-var/fonts/pk/ljfour/lh/lh
--t2a/larm1440.600pk> </home/dataflex/.texlive2021/texmf-var/fonts/pk/ljfour/lh/
-lh-t2a/larm2074.600pk>
-Output written on template.pdf (1 page, 107248 bytes).
+ 55i,8n,62p,355b,245s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/dataflex/.texlive2021/texmf-var/fonts/pk/ljfour/lh/lh
+-t2a/larm1200.600pk>
+Output written on template.pdf (3 pages, 170058 bytes).
 PDF statistics:
- 76 PDF objects out of 1000 (max. 8388607)
- 20 compressed objects within 1 object stream
+ 32 PDF objects out of 1000 (max. 8388607)
+ 13 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 

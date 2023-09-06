@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.9.6)  6 SEP 2023 20:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.9.6)  6 SEP 2023 23:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -227,6 +227,9 @@ Package graphics Info: Driver file: pdftex.def on input line 107.
 \Gin@req@height=\dimen159
 \Gin@req@width=\dimen160
 )
+(/usr/share/texlive/texmf-dist/tex/latex/placeins/placeins.sty
+Package: placeins 2005/04/18  v 2.2
+)
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count278
@@ -235,26 +238,26 @@ File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
 (./lab_0.aux)
 \openout1 = `lab_0.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
  (/usr/share/texlive/texmf-dist/tex/latex/ucs/ucsencs.def
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 )
-LaTeX Info: Redefining \th on input line 14.
+LaTeX Info: Redefining \th on input line 20.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -281,68 +284,88 @@ e
 (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-4.def
 File: uni-4.def 2013/05/13 UCS: Unicode data U+0400..U+04FF
 )
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-33.def
+File: uni-33.def 2013/05/13 UCS: Unicode data U+2100..U+21FF
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 22.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 22.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
 <command_line_asm.png, id=1, 353.52075pt x 151.16475pt>
 File: command_line_asm.png Graphic file (type png)
 <use command_line_asm.png>
-Package pdftex.def Info: command_line_asm.png  used on input line 24.
+Package pdftex.def Info: command_line_asm.png  used on input line 28.
 (pdftex.def)             Requested size: 312.00119pt x 133.4175pt.
 <HW s.png, id=3, 522.753pt x 380.01974pt>
 File: HW s.png Graphic file (type png)
 <use HW s.png>
-Package pdftex.def Info: HW s.png  used on input line 30.
+Package pdftex.def Info: HW s.png  used on input line 34.
 (pdftex.def)             Requested size: 312.00119pt x 226.80748pt.
-<arithmetic cpp.png, id=4, 218.61674pt x 149.96025pt>
-File: arithmetic cpp.png Graphic file (type png)
-<use arithmetic cpp.png>
-Package pdftex.def Info: arithmetic cpp.png  used on input line 40.
-(pdftex.def)             Requested size: 312.00119pt x 214.03879pt.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<arithmetic add.png, id=5, 525.162pt x 534.19576pt>
-File: arithmetic add.png Graphic file (type png)
-<use arithmetic add.png>
-Package pdftex.def Info: arithmetic add.png  used on input line 46.
-(pdftex.def)             Requested size: 312.00119pt x 317.36543pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<arithmetic sub.png, id=6, 522.15076pt x 533.5935pt>
-File: arithmetic sub.png Graphic file (type png)
-<use arithmetic sub.png>
-Package pdftex.def Info: arithmetic sub.png  used on input line 52.
-(pdftex.def)             Requested size: 312.00119pt x 318.8477pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<arithmetic command line.png, id=7, 801.59476pt x 526.96875pt>
-File: arithmetic command line.png Graphic file (type png)
-<use arithmetic command line.png>
-Package pdftex.def Info: arithmetic command line.png  used on input line 58.
-(pdftex.def)             Requested size: 312.00119pt x 205.11493pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./command_line_asm.png> <.
-/HW s.png>] [2 <./arithmetic cpp.png> <./arithmetic add.png>] [3 <./arithmetic 
-sub.png> <./arithmetic command line.png>] (./lab_0.aux) ) 
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./command_line_asm.png>]
+<arithmetic cpp.png, id=13, 218.61674pt x 149.96025pt>
+File: arithmetic cpp.png Graphic file (type png)
+<use arithmetic cpp.png>
+Package pdftex.def Info: arithmetic cpp.png  used on input line 47.
+(pdftex.def)             Requested size: 312.00119pt x 214.03879pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<arithmetic add.png, id=14, 525.162pt x 534.19576pt>
+File: arithmetic add.png Graphic file (type png)
+<use arithmetic add.png>
+Package pdftex.def Info: arithmetic add.png  used on input line 53.
+(pdftex.def)             Requested size: 312.00119pt x 317.36543pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<arithmetic sub.png, id=15, 522.15076pt x 533.5935pt>
+File: arithmetic sub.png Graphic file (type png)
+<use arithmetic sub.png>
+Package pdftex.def Info: arithmetic sub.png  used on input line 59.
+(pdftex.def)             Requested size: 312.00119pt x 318.8477pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<arithmetic command line.png, id=16, 449.2785pt x 153.57375pt>
+File: arithmetic command line.png Graphic file (type png)
+<use arithmetic command line.png>
+Package pdftex.def Info: arithmetic command line.png  used on input line 65.
+(pdftex.def)             Requested size: 312.00119pt x 106.65494pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[2 <./HW s.png>] [3 <./arithmetic cpp.png> <./arithmetic add.png>] [4 <./arithm
+etic sub.png> <./arithmetic command line.png>] (./lab_0.aux) ) 
 Here is how much of TeX's memory you used:
- 5803 strings out of 479721
- 87312 string characters out of 5887698
- 383386 words of memory out of 5000000
- 23708 multiletter control sequences out of 15000+600000
- 470359 words of font info for 30 fonts, out of 8000000 for 9000
+ 6081 strings out of 479721
+ 91139 string characters out of 5887698
+ 383399 words of memory out of 5000000
+ 23965 multiletter control sequences out of 15000+600000
+ 474572 words of font info for 43 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
- 55i,6n,62p,352b,581s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/dataflex/.texl
-ive2021/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1200.600pk>
-Output written on lab_0.pdf (3 pages, 226969 bytes).
+ 55i,6n,62p,352b,692s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/dataflex/
+.texlive2021/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1200.600pk> </home/datafle
+x/.texlive2021/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1440.600pk> </home/dataf
+lex/.texlive2021/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm2074.600pk>
+Output written on lab_0.pdf (4 pages, 178621 bytes).
 PDF statistics:
- 79 PDF objects out of 1000 (max. 8388607)
- 13 compressed objects within 1 object stream
+ 128 PDF objects out of 1000 (max. 8388607)
+ 23 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  31 words of extra memory for PDF output out of 10000 (max. 10000000)
 
